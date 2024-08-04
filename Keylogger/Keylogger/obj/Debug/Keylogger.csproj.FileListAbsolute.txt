@@ -1,0 +1,14 @@
+C:\Users\Itsmeowais\OneDrive\Desktop\keylogger\Keylogger\Keylogger\bin\Debug\Keylogger.exe.config
+C:\Users\Itsmeowais\OneDrive\Desktop\keylogger\Keylogger\Keylogger\bin\Debug\Keylogger.exe
+C:\Users\Itsmeowais\OneDrive\Desktop\keylogger\Keylogger\Keylogger\bin\Debug\Keylogger.pdb
+C:\Users\Itsmeowais\OneDrive\Desktop\keylogger\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.AssemblyReference.cache
+C:\Users\Itsmeowais\OneDrive\Desktop\keylogger\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.CoreCompileInputs.cache
+C:\Users\Itsmeowais\OneDrive\Desktop\keylogger\Keylogger\Keylogger\obj\Debug\Keylogger.exe
+C:\Users\Itsmeowais\OneDrive\Desktop\keylogger\Keylogger\Keylogger\obj\Debug\Keylogger.pdb
+C:\Users\Itsmeowais\OneDrive\Desktop\Unity Keylogger\keylogger\Keylogger\Keylogger\bin\Debug\Keylogger.exe.config
+C:\Users\Itsmeowais\OneDrive\Desktop\Unity Keylogger\keylogger\Keylogger\Keylogger\bin\Debug\Keylogger.exe
+C:\Users\Itsmeowais\OneDrive\Desktop\Unity Keylogger\keylogger\Keylogger\Keylogger\bin\Debug\Keylogger.pdb
+C:\Users\Itsmeowais\OneDrive\Desktop\Unity Keylogger\keylogger\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.AssemblyReference.cache
+C:\Users\Itsmeowais\OneDrive\Desktop\Unity Keylogger\keylogger\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.CoreCompileInputs.cache
+C:\Users\Itsmeowais\OneDrive\Desktop\Unity Keylogger\keylogger\Keylogger\Keylogger\obj\Debug\Keylogger.exe
+C:\Users\Itsmeowais\OneDrive\Desktop\Unity Keylogger\keylogger\Keylogger\Keylogger\obj\Debug\Keylogger.pdb
